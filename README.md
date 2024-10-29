@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/-Apache-&?style=for-the-badge&logo=apache&color=black" alt="Apache logo" />
     <img src="https://img.shields.io/badge/-Github-&?style=for-the-badge&logo=github&color=black" alt="Github logo" />
     <img src="https://img.shields.io/badge/-Git-&?style=for-the-badge&logo=git&color=black" alt="Git logo" />
-    <img src="https://img.shields.io/badge/-VSCO-&?style=for-the-badge&logo=vsco&color=black&logoColor=0076C6" alt="Visual studio code logo" />
     </div>
 
 <br/>
