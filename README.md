@@ -10,7 +10,11 @@
     <img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="Typescript logo" />
     <img src="https://img.shields.io/badge/-Javascript-&?style=for-the-badge&logo=javascript&color=black" alt="Javascript logo" />
     <img src="https://img.shields.io/badge/-NodeJS-&?style=for-the-badge&logo=nodedotjs&color=black" alt="Node logo" />
-    <img src="https://img.shields.io/badge/-Kotlin-&?style=for-the-badge&logo=kotlin&color=black" alt="Node logo" />
+    <img src="https://img.shields.io/badge/-Java-&?style=for-the-badge&logo=java&color=black" alt="Java logo" />
+    <img src="https://img.shields.io/badge/-Kotlin-&?style=for-the-badge&logo=kotlin&color=black" alt="Kotlin logo" />
+    <img src="https://img.shields.io/badge/-Go-&?style=for-the-badge&logo=go&color=black" alt="Go logo" />
+    <img src="https://img.shields.io/badge/-Python-&?style=for-the-badge&logo=python&color=black" alt="Python logo" />
+    <img src="https://img.shields.io/badge/-Terraform-&?style=for-the-badge&logo=terraform&color=black" alt="Terraform logo" />
     <img src="https://img.shields.io/badge/-Apache-&?style=for-the-badge&logo=apache&color=black" alt="Apache logo" />
     <img src="https://img.shields.io/badge/-Github-&?style=for-the-badge&logo=github&color=black" alt="Github logo" />
     <img src="https://img.shields.io/badge/-Git-&?style=for-the-badge&logo=git&color=black" alt="Git logo" />
