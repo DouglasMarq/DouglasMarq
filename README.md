@@ -10,10 +10,7 @@
     <img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="Typescript logo" />
     <img src="https://img.shields.io/badge/-Javascript-&?style=for-the-badge&logo=javascript&color=black" alt="Javascript logo" />
     <img src="https://img.shields.io/badge/-NodeJS-&?style=for-the-badge&logo=nodedotjs&color=black" alt="Node logo" />
-    <img src="https://img.shields.io/badge/-react-&?style=for-the-badge&logo=react&color=black" alt="React logo" />
-    <img src="https://img.shields.io/badge/-angular-&?style=for-the-badge&logo=angular&color=black" alt="Angular logo" />
-    <img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" alt="Jest logo" />
-    <img src="https://img.shields.io/badge/-Express-&?style=for-the-badge&logo=express&color=black" alt="Express logo" />
+    <img src="https://img.shields.io/badge/-Kotlin-&?style=for-the-badge&logo=kotlin&color=black" alt="Node logo" />
     <img src="https://img.shields.io/badge/-Apache-&?style=for-the-badge&logo=apache&color=black" alt="Apache logo" />
     <img src="https://img.shields.io/badge/-Github-&?style=for-the-badge&logo=github&color=black" alt="Github logo" />
     <img src="https://img.shields.io/badge/-Git-&?style=for-the-badge&logo=git&color=black" alt="Git logo" />
