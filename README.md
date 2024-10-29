@@ -28,7 +28,7 @@
 ### Entre em contato comigo 🤝:
   <a href = "mailto: douglas.marq.alves@outlook.com"><img src="https://img.shields.io/badge/-outlook-%232596BE?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglas-marques-alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://twitter.com/IDPBBrisa" target="blank"><img src="https://img.shields.io/twitter/follow/IDPBBrisa?logo=twitter&style=for-the-badge" alt="evelynbarrosb" /></a>
+<a href="https://x/IDPBBrisa" target="blank"><img src="https://img.shields.io/x/follow/IDPBBrisa?logo=x&style=for-the-badge" alt="IDPBBrisa" /></a>
   <a href="https://instagram.com/idpbbrisa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
